@@ -1,8 +1,8 @@
-# 🎓 Course Project Code Repo (课程设计项目代码库)
+# 🎓 课程设计项目代码库 (Course Project Code Repo)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Language-MATLAB-orange?style=flat-square&logo=matlab" alt="MATLAB">
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Language-MATLAB-orange?style=flat-square" alt="MATLAB">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square" alt="Python">
   <img src="https://img.shields.io/badge/License-Non--Commercial-red?style=flat-square" alt="License">
   <img src="https://img.shields.io/badge/Author-Primerusse-green?style=flat-square" alt="Author">
 </p>
@@ -16,14 +16,14 @@
 
 ## 📂 项目结构 (Project Structure)
 
-### 🧮 MATLAB 工程
+### 🧮 MATLAB
 侧重于力学问题数值求解与仿真分析：
 *   **`2025.06_中前（后）差分法求解波动方程`** - 偏微分方程数值求解与稳定性分析。
 *   **`2025.06_交通流元胞自动机模型（NaSch模型）`** - 复杂系统与交通流仿真。
 *   **`2025.06_求解梁挠度的材料力学应用题`** - 材料力学基础问题编程实现。
 *   **`2026.01_超高建筑顶部桅杆对其振动特性的影响`** - 结构动力学与模态分析。
 
-### 🐍 Python 工程
+### 🐍 Python
 侧重于有限元算法底层实现与结构分析：
 *   **`2026.01_自编四节点等参单元求解悬臂梁平面问题`** - 有限元法（FEM）理论到代码的实践。
     *(注：当前目录下的 `结构占位文件` 用于维持空目录，后续将被实际代码替换)*
