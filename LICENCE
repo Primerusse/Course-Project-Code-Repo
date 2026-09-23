@@ -1,7 +1,83 @@
-Copyright (c) 2026 Primerusse
+# PolyForm Noncommercial License 1.0.0
+# PolyForm 非商业许可证 1.0.0
 
-允许任何人免费复制、修改和分发本项目的代码，用于非商业目的。
-条件：
-1. 必须保留上述版权声明及本许可声明。
-2. 必须在显著位置注明原作者为 Primerusse（可附上主页链接）。
-3. 严禁将本项目（或修改后的衍生版本）用于任何商业盈利行为。
+<https://polyformproject.org/licenses/noncommercial/1.0.0>
+
+Copyright (c) 2026 Primerusse (https://github.com/Primerusse/Course-Project-Code-Repo)
+Required Notice: Copyright (c) 2026 Primerusse (https://github.com/Primerusse/Course-Project-Code-Repo)
+
+## Acceptance / 接受条款
+In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
+为了获得本条款下的任何许可，你必须同意将这些条款作为你所有许可的严格义务和条件。
+
+## Copyright License / 版权许可
+The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose.
+许可方授予你一项版权许可，允许你为任何许可目的对软件进行一切本会侵犯许可方版权的行为。
+However, you may only distribute the software according to Distribution License and make changes or new works based on the software according to Changes and New Works License.
+但是，你只能根据“分发许可”分发软件，并只能根据“修改与新作品许可”对软件进行修改或创作新作品。
+
+## Distribution License / 分发许可
+The licensor grants you an additional copyright license to distribute copies of the software.
+许可方授予你一项额外的版权许可，以分发软件的副本。
+Your license to distribute covers distributing the software with changes and new works permitted by Changes and New Works License.
+你的分发许可涵盖分发“修改与新作品许可”所允许的、包含修改和新作品的软件。
+
+## Notices / 通知
+You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the URL for them above, as well as copies of any plain-text lines beginning with `Required Notice:` that the licensor provided with the software.
+你必须确保从你处获得软件任何部分副本的任何人，同时获得这些条款的副本或其上方URL，以及许可方随软件提供的、以 `Required Notice:` 开头的任何纯文本行的副本。
+For example:
+Required Notice: Copyright (c) 2026 Primerusse (https://github.com/Primerusse/Course-Project-Code-Repo)
+
+## Changes and New Works License / 修改与新作品许可
+The licensor grants you an additional copyright license to make changes and new works based on the software for any permitted purpose.
+许可方授予你一项额外的版权许可，允许你为任何许可目的对软件进行修改和创作新作品。
+
+## Patent License / 专利许可
+The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
+许可方授予你一项软件专利许可，涵盖许可方能够许可或变得能够许可的、你使用软件会侵犯的专利权利要求。
+
+## Noncommercial Purposes / 非商业目的
+Any noncommercial purpose is a permitted purpose.
+任何非商业目的都是许可目的。
+
+## Personal Uses / 个人使用
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is use for a permitted purpose.
+为公共知识利益进行研究、实验和测试，以及个人学习、私人娱乐、爱好项目、业余追求或宗教仪式等个人使用，且无任何预期商业应用，均属许可目的。
+
+## Noncommercial Organizations / 非商业组织
+Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is use for a permitted purpose regardless of the source of funding or obligations resulting from the funding.
+任何慈善组织、教育机构、公共研究组织、公共安全或卫生组织、环境保护组织或政府机构的使用，无论资金来源或由此产生的义务如何，均属许可目的。
+
+## Fair Use / 合理使用
+You may have "fair use" rights for the software under the law. These terms do not limit them.
+你可能依法对软件享有“合理使用”权利。本条款不限制这些权利。
+
+## No Other Rights / 无其他权利
+These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else. These terms do not imply any other licenses.
+本条款不允许你将任何许可再许可或转让给他人，也不阻止许可方向任何人授予许可。本条款不暗示任何其他许可。
+
+## Patent Defense / 专利抗辩
+If you make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately. If your company makes such a claim, your patent license ends immediately for work on behalf of your company.
+如果你书面主张软件侵犯或促成侵犯任何专利，你根据本条款获得的软件专利许可将立即终止。如果你的公司提出此类主张，你代表公司工作的专利许可将立即终止。
+
+## Violations / 违约
+The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice. Otherwise, all your licenses end immediately.
+首次收到书面通知，告知你违反任何条款，或对软件做了许可未涵盖的事情时，若你在收到通知后32天内完全遵守本条款并采取实际步骤纠正过往违规行为，你的许可仍可继续。否则，你所有许可将立即终止。
+
+## No Liability / 无责任
+As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.
+在法律允许的最大范围内，软件按“原样”提供，不附带任何保证或条件，许可方不对因本条款或软件使用或性质引起的任何损害承担任何责任。
+
+## Definitions / 定义
+The licensor is the individual or entity offering these terms, and the software is the software the licensor makes available under these terms.
+许可方是提供本条款的个人或实体，软件是许可方根据本条款提供的软件。
+You refers to the individual or entity agreeing to these terms.
+“你”指同意本条款的个人或实体。
+Your company is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization.
+“你的公司”指你为其工作的任何法律实体、独资企业或其他类型的组织，以及控制该组织、受该组织控制或与该组织处于共同控制下的所有组织。
+Control means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise. Control can be direct or indirect.
+“控制”指拥有实体几乎所有资产的所有权，或通过投票、合同或其他方式指导其管理和政策的权力。“控制”可以是直接的或间接的。
+Your licenses are all the licenses granted to you for the software under these terms.
+“你的许可”指根据本条款授予你的所有软件许可。
+Use means anything you do with the software requiring one of your licenses.
+“使用”指你对软件所做的任何需要许可的行为。
