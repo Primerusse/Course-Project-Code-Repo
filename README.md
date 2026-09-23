@@ -48,9 +48,9 @@ For details, please refer to the [LICENSE](LICENSE) file in the root directory o
 ## 👤 关于作者 (Author)
 **Primerusse**
 *   个人博客(Blog)：[primerusse.top](https://primerusse.top)
-*   邮箱(Email)：primerusse@gmail.com (📧 来信请在主题说明来意 / Please state the purpose of your email in the subject line)
+*   邮箱(Email)：primerusse@gmail.com <br> (📧 来信请在主题说明来意 / Please state the purpose of your email in the subject line)
 *   GitHub：[@Primerusse](https://github.com/Primerusse)
-*   研究兴趣(Research Interests)：计算力学 / 有限元分析 / 数值仿真 / 数学 (Computational Mechanics / Finite Element Analysis / Numerical Simulation / Mathematics)
+*   研究兴趣(Research Interests)：<br>计算力学 (Computational Mechanics)<br>有限元分析 (Finite Element Analysis)<br>数值仿真 (Numerical Simulation)<br>数学 (Mathematics)
 
 ⭐ 如果这些代码对你的学习有帮助，欢迎给个 Star 支持一下！<br>
 ⭐ If these codes are helpful to your study, please give a Star to support!
