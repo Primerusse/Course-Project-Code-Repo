@@ -25,7 +25,6 @@ This repository serves as the codebase for **Primerusse**'s course projects. It 
     *   [2026.01_超高建筑顶部桅杆对其振动特性的影响](./tree/main/MATLAB/2026.01_超高建筑顶部桅杆对其振动特性的影响)
 *   [Python](./tree/main/Python)
     *   [2026.01_自编四节点等参单元求解悬臂梁平面问题](./tree/main/Python/2026.01_自编四节点等参单元求解悬臂梁平面问题)
-    *   [结构占位文件](./blob/main/Python/结构占位文件)
 
 ---
 
