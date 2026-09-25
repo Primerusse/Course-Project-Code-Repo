@@ -8,8 +8,8 @@
 </p>
 
 ## 📖 简介 (Introduction)
-本仓库为 **Primerusse** 的课程设计项目代码库，主要用于记录和归档在力学、数值计算及有限元分析等课程中的编程实现，涵盖了从理论推导到数值验证的全过程。<br>
-This repository serves as the codebase for **Primerusse**'s course projects. It primarily documents and archives programming implementations in mechanics, numerical computing, and finite element analysis, covering the entire process from theoretical derivation to numerical verification.
+本仓库为 **Primerusse** 的课程设计项目代码库，主要用于记录和归档在力学、数值计算及有限元分析等课程中的编程实现。<br>
+This repository serves as the codebase for **Primerusse**'s course projects. It primarily documents and archives programming implementations in mechanics, numerical computing, and finite element analysis.
 
 > 💡 **阅读提示**：本仓库代码仅供学习交流与学术参考。如需了解项目详细思路与理论推导，欢迎访问我的博客：[primerusse.top](https://primerusse.top) <br>
 > 💡 **Reading Tip**: The code in this repository is for learning, exchange, and academic reference only. For detailed methodologies and theoretical derivations, please visit my blog: [primerusse.top](https://primerusse.top)
@@ -25,7 +25,6 @@ This repository serves as the codebase for **Primerusse**'s course projects. It 
     *   [2026.01_超高建筑顶部桅杆对其振动特性的影响](./tree/main/MATLAB/2026.01_超高建筑顶部桅杆对其振动特性的影响)
 *   [Python](./tree/main/Python)
     *   [2026.01_自编四节点等参单元求解悬臂梁平面问题](./tree/main/Python/2026.01_自编四节点等参单元求解悬臂梁平面问题)
-    *   [结构占位文件](./blob/main/Python/结构占位文件)
 
 ---
 
