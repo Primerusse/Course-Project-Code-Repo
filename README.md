@@ -1,10 +1,10 @@
 # 🎓 课程设计项目代码库 (Course Project Code Repo)
 
 <p align="left">
-  <img src="./assets/matlab.svg" height="16" alt="MATLAB"> <b>MATLAB</b> &nbsp;|&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776ab" height="16" alt="Python"> <b>Python</b> &nbsp;|&nbsp;
-  <img src="https://cdn.simpleicons.org/creativecommons/ab0b16" height="16" alt="License"> <b>PolyForm Noncommercial 1.0.0</b> &nbsp;|&nbsp;
-  <img src="https://cdn.simpleicons.org/github/181717" height="16" alt="Author"> <b>Primerusse</b>
+  <img src="https://badgen.net/badge/Language/MATLAB/orange?icon=matlab&style=flat-square" alt="MATLAB">
+  <img src="https://badgen.net/badge/Language/Python/blue?icon=python&style=flat-square" alt="Python">
+  <img src="https://badgen.net/badge/License/PolyForm--Noncommercial--1.0.0/red?icon=creativecommons&style=flat-square" alt="License">
+  <img src="https://badgen.net/badge/Author/Primerusse/green?icon=github&style=flat-square" alt="Author">
 </p>
 
 ## 📖 简介 (Introduction)
