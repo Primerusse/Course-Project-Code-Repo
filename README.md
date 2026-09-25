@@ -1,10 +1,30 @@
 # 🎓 课程设计项目代码库 (Course Project Code Repo)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Language-MATLAB-orange?style=flat-square&logo=mathworks&labelColor=555" alt="MATLAB">
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python&labelColor=555" alt="Python">
-  <img src="https://img.shields.io/badge/License-PolyForm--Noncommercial--1.0.0-red?style=flat-square&logo=creativecommons&labelColor=555" alt="License">
-  <img src="https://img.shields.io/badge/Author-Primerusse-green?style=flat-square&logo=github&labelColor=555" alt="Author">
+  <span style="display: inline-flex; align-items: center; height: 20px; border-radius: 4px; overflow: hidden; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size: 12px; font-weight: 600; line-height: 20px; vertical-align: middle; margin-right: 5px;">
+    <span style="background-color: #555; color: #fff; padding: 0 6px; height: 100%; display: flex; align-items: center;">Language</span>
+    <span style="background-color: #e67e22; color: #fff; padding: 0 6px; height: 100%; display: flex; align-items: center;">
+      <img src="https://cdn.simpleicons.org/matlab/white" height="12" alt="MATLAB" style="margin-right: 4px;"> MATLAB
+    </span>
+  </span>
+  <span style="display: inline-flex; align-items: center; height: 20px; border-radius: 4px; overflow: hidden; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size: 12px; font-weight: 600; line-height: 20px; vertical-align: middle; margin-right: 5px;">
+    <span style="background-color: #555; color: #fff; padding: 0 6px; height: 100%; display: flex; align-items: center;">Language</span>
+    <span style="background-color: #3776ab; color: #fff; padding: 0 6px; height: 100%; display: flex; align-items: center;">
+      <img src="https://cdn.simpleicons.org/python/white" height="12" alt="Python" style="margin-right: 4px;"> Python
+    </span>
+  </span>
+  <span style="display: inline-flex; align-items: center; height: 20px; border-radius: 4px; overflow: hidden; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size: 12px; font-weight: 600; line-height: 20px; vertical-align: middle; margin-right: 5px;">
+    <span style="background-color: #555; color: #fff; padding: 0 6px; height: 100%; display: flex; align-items: center;">License</span>
+    <span style="background-color: #cb2431; color: #fff; padding: 0 6px; height: 100%; display: flex; align-items: center;">
+      <img src="https://cdn.simpleicons.org/creativecommons/white" height="12" alt="License" style="margin-right: 4px;"> PolyForm Noncommercial 1.0.0
+    </span>
+  </span>
+  <span style="display: inline-flex; align-items: center; height: 20px; border-radius: 4px; overflow: hidden; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size: 12px; font-weight: 600; line-height: 20px; vertical-align: middle; margin-right: 5px;">
+    <span style="background-color: #555; color: #fff; padding: 0 6px; height: 100%; display: flex; align-items: center;">Author</span>
+    <span style="background-color: #2cbe4e; color: #fff; padding: 0 6px; height: 100%; display: flex; align-items: center;">
+      <img src="https://cdn.simpleicons.org/github/white" height="12" alt="Author" style="margin-right: 4px;"> Primerusse
+    </span>
+  </span>
 </p>
 
 ## 📖 简介 (Introduction)
