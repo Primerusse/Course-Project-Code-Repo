@@ -46,6 +46,7 @@ For details, please refer to the [LICENSE](LICENSE) file in the root directory o
 
 ## 👤 关于作者 (Author)
 **Primerusse**
+*   学历(Education)：在读本科 (Undergraduate Student)
 *   个人博客(Blog)：[primerusse.top](https://primerusse.top)
 *   邮箱(Email)：primerusse@gmail.com <br> (📧 来信请在主题说明来意 / 📧 Please state the purpose of your email in the subject line)
 *   GitHub：[@Primerusse](https://github.com/Primerusse)
