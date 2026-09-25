@@ -1,10 +1,10 @@
 # 🎓 课程设计项目代码库 (Course Project Code Repo)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Language-MATLAB-orange?style=flat-square&logo=matlab&logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/License-PolyForm--Noncommercial--1.0.0-red?style=flat-square&logo=creativecommons" alt="License">
-  <img src="https://img.shields.io/badge/Author-Primerusse-green?style=flat-square&logo=github" alt="Author">
+  <img src="https://img.shields.io/badge/Language-MATLAB-orange?style=flat-square&logo=matlab&labelColor=555" alt="MATLAB">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python&labelColor=555" alt="Python">
+  <img src="https://img.shields.io/badge/License-PolyForm--Noncommercial--1.0.0-red?style=flat-square&logo=creativecommons&labelColor=555" alt="License">
+  <img src="https://img.shields.io/badge/Author-Primerusse-green?style=flat-square&logo=github&labelColor=555" alt="Author">
 </p>
 
 ## 📖 简介 (Introduction)
