@@ -1,30 +1,10 @@
 # 🎓 课程设计项目代码库 (Course Project Code Repo)
 
 <p align="left">
-  <span style="display: inline-flex; align-items: center; height: 20px; border-radius: 4px; overflow: hidden; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size: 12px; font-weight: 600; line-height: 20px; vertical-align: middle; margin-right: 5px;">
-    <span style="background-color: #555; color: #fff; padding: 0 6px; height: 100%; display: flex; align-items: center;">Language</span>
-    <span style="background-color: #e67e22; color: #fff; padding: 0 6px; height: 100%; display: flex; align-items: center;">
-      <img src="https://cdn.simpleicons.org/matlab/white" height="12" alt="MATLAB" style="margin-right: 4px;"> MATLAB
-    </span>
-  </span>
-  <span style="display: inline-flex; align-items: center; height: 20px; border-radius: 4px; overflow: hidden; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size: 12px; font-weight: 600; line-height: 20px; vertical-align: middle; margin-right: 5px;">
-    <span style="background-color: #555; color: #fff; padding: 0 6px; height: 100%; display: flex; align-items: center;">Language</span>
-    <span style="background-color: #3776ab; color: #fff; padding: 0 6px; height: 100%; display: flex; align-items: center;">
-      <img src="https://cdn.simpleicons.org/python/white" height="12" alt="Python" style="margin-right: 4px;"> Python
-    </span>
-  </span>
-  <span style="display: inline-flex; align-items: center; height: 20px; border-radius: 4px; overflow: hidden; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size: 12px; font-weight: 600; line-height: 20px; vertical-align: middle; margin-right: 5px;">
-    <span style="background-color: #555; color: #fff; padding: 0 6px; height: 100%; display: flex; align-items: center;">License</span>
-    <span style="background-color: #cb2431; color: #fff; padding: 0 6px; height: 100%; display: flex; align-items: center;">
-      <img src="https://cdn.simpleicons.org/creativecommons/white" height="12" alt="License" style="margin-right: 4px;"> PolyForm Noncommercial 1.0.0
-    </span>
-  </span>
-  <span style="display: inline-flex; align-items: center; height: 20px; border-radius: 4px; overflow: hidden; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size: 12px; font-weight: 600; line-height: 20px; vertical-align: middle; margin-right: 5px;">
-    <span style="background-color: #555; color: #fff; padding: 0 6px; height: 100%; display: flex; align-items: center;">Author</span>
-    <span style="background-color: #2cbe4e; color: #fff; padding: 0 6px; height: 100%; display: flex; align-items: center;">
-      <img src="https://cdn.simpleicons.org/github/white" height="12" alt="Author" style="margin-right: 4px;"> Primerusse
-    </span>
-  </span>
+  <img src="./assets/matlab.svg" height="16" alt="MATLAB"> <b>MATLAB</b> &nbsp;|&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776ab" height="16" alt="Python"> <b>Python</b> &nbsp;|&nbsp;
+  <img src="https://cdn.simpleicons.org/creativecommons/ab0b16" height="16" alt="License"> <b>PolyForm Noncommercial 1.0.0</b> &nbsp;|&nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" height="16" alt="Author"> <b>Primerusse</b>
 </p>
 
 ## 📖 简介 (Introduction)
