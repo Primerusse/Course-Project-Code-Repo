@@ -1,7 +1,7 @@
 # 🎓 课程设计项目代码库 (Course Project Code Repo)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Language-MATLAB-orange?style=flat-square&logo=mathworks" alt="MATLAB">
+  <img src="https://img.shields.io/badge/Language-MATLAB-orange?style=flat-square&logo=matlab&logoColor=white" alt="MATLAB">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/License-PolyForm--Noncommercial--1.0.0-red?style=flat-square&logo=creativecommons" alt="License">
   <img src="https://img.shields.io/badge/Author-Primerusse-green?style=flat-square&logo=github" alt="Author">
